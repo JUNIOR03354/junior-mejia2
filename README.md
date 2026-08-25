@@ -1,6 +1,13 @@
-[junior2.html](https://github.com/user-attachments/files/31438279/junior2.html)
+[junior2.html](https://github.com/user-attachments/files/31438752/junior2.html)
+
+
 <head>
     <title>todo sobre las virtual box's</title>
+  
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
   <style>
     :root {
       --bg-principal: #f5f5f5;
@@ -182,12 +189,14 @@
         align-items: flex-start;
       }
     }
- 
-
+  </style>
+</head>
 <body>
 
   
   <header>
+    <div class="container header-content">
+      <div class="brand">
               
         <div class="header-title">
           <h1>todo lo relacionado con la virtual box</h1>
@@ -258,7 +267,9 @@
       <p>
         las principales componentes utilizadas son: la vbox manage,los formatos de disco (vdi,vmdk,vhd) y por ultimo las redes virtuales
              <figcaption>
-
+</figcaption>
+      </figure>
+    </section>
 
        <section id="ejemplos">
       <h2>Ejemplos y Casos Prácticos</h2>
@@ -293,7 +304,8 @@ Uso Principal	Centros de datos y servidores de producción.	Entornos de pruebas,
         </div>
       </div>
 
-    
+      <figure style="margin-top: 1.5rem;">
+               <img 
        <section id="conclusiones">
       <h2>Conclusiones</h2>
       
@@ -310,6 +322,7 @@ Uso Principal	Centros de datos y servidores de producción.	Entornos de pruebas,
       </p>
     </section>
 
+  </main>
 
    <footer>
     <div class="container">
@@ -317,3 +330,5 @@ Uso Principal	Centros de datos y servidores de producción.	Entornos de pruebas,
     </div>
   </footer>
 
+</body>
+</html>
