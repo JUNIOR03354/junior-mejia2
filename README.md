@@ -1,5 +1,5 @@
-[junior2.html](https://github.com/user-attachments/files/31438094/junior2.html)
-# junior-mejia2<head>
+[junior2.html](https://github.com/user-attachments/files/31438279/junior2.html)
+<head>
     <title>todo sobre las virtual box's</title>
   
    <link rel="preconnect" href="https://fonts.googleapis.com">
